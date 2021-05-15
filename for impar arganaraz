@@ -1,0 +1,11 @@
+Algoritmo calculoParesImpares
+	
+	Para iteradorI = 1  Hasta  10 Con Paso 2 Hacer;
+		Escribir  "vuelta impar = " iteradorI;
+		Escribir  "La cantidad total de vueltas impares es " iteradorI / 1.8;
+		
+	Fin Para
+
+
+	
+FinAlgoritmo
